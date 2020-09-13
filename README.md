@@ -2,14 +2,14 @@
 want you to visualize and explore the data to provide us some insights. We can’t wait to hear
 from you. Thanks!” – Chief Actuary
 
-# Task 1) 
+## Task 1) 
 
 Read in the DentalClaims.csv file into R. Name the resulting dataframe, Dental.
 Convert the columns (ID, Tier, Procedure, Occupation, Provider, Claim) into factor columns, not
 integer. 
 Hint: use factor()
 
-# Task 2) 
+## Task 2) 
 
 Create various histograms of the Dental dataset.
 A. Histogram of the variable Claim where the stat=”count”
