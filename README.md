@@ -36,5 +36,4 @@ DentalClaims.
 Use the geom_jitter() to see the spread of the paid amounts within each provider.
 
 B. 
-Add a title for the x-axis, add a title for the y-axis, add a title for the entire chart, and use
-theme() to change the font size for the titles while also adding a legend.
+Add a title for the x-axis, add a title for the y-axis, add a title for the entire chart, and use theme() to change the font size for the titles while also adding a legend.
